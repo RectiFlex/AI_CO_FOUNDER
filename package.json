@@ -28,7 +28,7 @@
     "react-query": "^3.39.3",
     "react-router-dom": "^6.28.1",
     "recharts": "^2.14.1",
-    "repomix": "^0.2.5",
+    "repomix": "^0.2.19",
     "uuid": "^9.0.1",
     "xterm": "^5.3.0",
     "xterm-addon-fit": "^0.8.0",
